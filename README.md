@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Python, PostgreSQL, Kubernetes, Terraform and AWS**
 
-- 👨‍💻 All of my projects are available at [jxel.dev/projects](https://jxel.dev/projects)
+- 👨‍💻 All of my projects are available at [blog.jxel.dev/projects](https://blog.jxel.dev/projects)
 
-- 📝 I occasionally write articles on [jxel.dev](https://jxel.dev)
+- 📝 I occasionally write articles on [blog.jxel.dev](https://blog.jxel.dev)
 
 - 📫 If you'd like to reach me, email **contact @jxel.dev**
 
